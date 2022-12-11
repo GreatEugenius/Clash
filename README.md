@@ -15,35 +15,23 @@
 8. 本项目保留随时对免责声明进行补充或更改的权利，直接或间接使用本项目内容的个人或组织，视为接受本项目的特别声明。
 
 
-### ClashX Pro 下载地址
+## ClashX Pro 下载地址
 
 带增强模式并原生支持Apple Silicon的ClashX Pro在[AppCenter](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public)永久免费下载。
 
-
-### 懒人配置参考
+## 懒人配置
 
 [点击下载](https://raw.githubusercontent.com/GreatEugenius/Clash/master/config.yaml)
 
+## 使用方式
+###步骤一：替换config文件
+找到config所在文件夹,config文件的默认文件夹是`$HOME/.config/clash`，默认名称是`config.yaml`，你可以直接将下载好的文件对`config.yaml`文件进行替换。
 
-### 使用方式
+###步骤二:编辑config文件
+记住订阅配置名称，打开config文件，将所有“机场n”替换为自己的订阅配置名称n(n表示自然数）
 
-
-```yaml
-
-# 代理节点
-proxy-providers:
-  # 所有节点
-  机场名:
-    type: http
-    path: ./Server/机场名.yaml
-    url: 订阅连接
-    interval: 3600
-    filter: '节点关键词'
-    health-check:
-        enable: true
-        url: http://www.gstatic.com/generate_204
-        interval: 3600
-```
+###步骤二:选择config文件
+fddwdjwdXxcccsjchn在启动的Clash
 
 ## 外部资源
 
