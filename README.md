@@ -21,4 +21,4 @@
 
 以下排名不分先后
 
-[@Semporia](https://github.com/Semporia)   [@blackmatrix7](https://github.com/blackmatrix7)
+[@Semporia](https://github.com/Semporia)   [@blackmatrix7](https://github.com/blackmatrix7)   [@erdongchan](https://github.com/erdongchanyo)
