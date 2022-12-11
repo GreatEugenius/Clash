@@ -1,4 +1,4 @@
-# 自用整合 ClashX Pro 分流
+# 自用ClashX Pro分流配置
 
 ### ClashX Pro 下载地址
 
