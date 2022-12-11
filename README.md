@@ -21,5 +21,4 @@
 
 以下排名不分先后
 
-[@Semporia](https://github.com/Semporia)   [@blackmatrix7](https://github.com/blackmatrix7)   [@BaileyZyp](https://github.com/BaileyZyp)   [@Mazeorz](https://github.com/Mazeorz)   [@LuzMasonj](https://github.com/LuzMasonj)  [@chouchoui](https://github.com/chouchoui)  [@ypannnn](https://github.com/ypannnn)  [@echizenryoma](https://github.com/echizenryoma)  [@zirawell](https://github.com/zirawell)  [@urzz](https://github.com/urzz)  [@ASD-max](https://github.com/ASD-max)
-
+[@Semporia](https://github.com/Semporia)   [@blackmatrix7](https://github.com/blackmatrix7)
