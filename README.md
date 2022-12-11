@@ -20,12 +20,13 @@
 带增强模式并原生支持Apple Silicon的ClashX Pro在[AppCenter](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public)永久免费下载。
 
 
-### 懒人配置参考！
+### 懒人配置参考
 
-[config.yaml]()
+[点击下载](https://raw.githubusercontent.com/GreatEugenius/Clash/master/config.yaml)
 
 
-### 远程引用分流规则
+### 使用方式
+
 
 ```yaml
 
@@ -52,4 +53,4 @@ proxy-providers:
 
 以下排名不分先后
 
-[@Semporia](https://github.com/Semporia)   [@blackmatrix7](https://github.com/blackmatrix7)   [@erdongchan](https://github.com/erdongchanyo)
+[@Semporia](https://github.com/Semporia)   [@blackmatrix7](https://github.com/blackmatrix7)   [@erdongchan](https://github.com/erdongchanyo)   [@Yicheng](https://github.com/yichengchen)
