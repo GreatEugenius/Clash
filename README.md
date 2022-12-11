@@ -24,14 +24,17 @@
 [点击下载](https://raw.githubusercontent.com/GreatEugenius/Clash/master/config.yaml)
 
 ## 使用方式
-###步骤一：替换config文件
+1.替换config文件:
 找到config所在文件夹,config文件的默认文件夹是`$HOME/.config/clash`，默认名称是`config.yaml`，你可以直接将下载好的文件对`config.yaml`文件进行替换。
 
-###步骤二:编辑config文件
+2.编辑config文件:
 记住订阅配置名称，打开config文件，将所有“机场n”替换为自己的订阅配置名称n(n表示自然数）
 
-###步骤二:选择config文件
-fddwdjwdXxcccsjchn在启动的Clash
+3.选择config文件:
+在config所在文件夹新建`Filter`，该文件用于存储规则集
+
+4.选择config文件:
+在ClashX Pro的配置中选择`config`
 
 ## 外部资源
 
