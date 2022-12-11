@@ -25,7 +25,7 @@
 
 ## 使用方式
 1.替换config文件:
-找到config所在文件夹,config文件的默认文件夹是`$HOME/.config/clash`，默认名称是`config.yaml`，你可以直接将下载好的文件对`config.yaml`文件进行替换。
+找到config所在文件夹,config文件的默认文件夹是`$HOME/.config/clash`，默认名称是`config.yaml`，你可以直接将下载好的文件对`config.yaml`文件进行替换
 
 2.编辑config文件:
 记住订阅配置名称，打开config文件，将所有“机场n”替换为自己的订阅配置名称n(n表示自然数）
