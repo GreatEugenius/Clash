@@ -1,7 +1,7 @@
 ## 前言
 
 自用ClashX Pro配置，内涵节点整合及分流功能，让ClashX Pro的分流像QuantumultX的分流一样好用，欢迎多机场用户、流媒体用户根据自己的需求进行改写。
-分流规则第一要义：Less is more, fast is slow!
+分流规则第一要义：Less is more!
 
 
 ## 特别声明
